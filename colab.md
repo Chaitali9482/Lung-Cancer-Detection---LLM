@@ -1,3 +1,9 @@
+colab link - https://colab.research.google.com/drive/1KIHaHtwpfgfa68eYx6qRypJkMsiy0ZGR?usp=sharing
+ 
+ 
+ 
+ 
+ 
  This project looks at different methods to detect lung cancer from chest
  X-rays. I began with a simple CNN, then used transfer learning with frozen and fine
 tuned models, and finally tested a feature-based method with Isolation Forest. The
